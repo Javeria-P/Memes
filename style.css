@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.main_heading{
+    color: brown;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.top_para{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.main_img{
+    width: 25%;
+    border: 5px white solid;
+}
+
+
+.second_heading{
+    color: brown;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.second_para{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.second_img{
+    width: 25%;
+    border: 5px white solid;
+}
+
+
+.third_heading{
+    color: brown;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.third_para{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.third_img{
+    width: 25%;
+    border: 5px white solid;
+}
+
+
+.fourth_heading{
+    color: brown;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.fourth_para{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.fourth_img{
+    width: 25%;
+    border: 5px white solid;
+}
+
+
+.fifth_heading{
+    color: brown;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.fifth_para{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.fifth_img{
+    width: 25%;
+    border: 5px white solid;
+}
